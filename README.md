@@ -5,7 +5,7 @@ using Laravel
 
 ## Versioning
 
-Adldap2-Laravel is versioned under the [Semantic Versioning](http://semver.org/) guidelines as much as possible.
+Ticketing is versioned under the [Semantic Versioning](http://semver.org/) guidelines.
 
 Releases will be numbered with the following format:
 
@@ -21,3 +21,4 @@ Minor versions are not maintained individually, and you're encouraged to upgrade
 
 Major versions are maintained individually through separate branches.
 
+Each complete release would be stored in a seperate branch using the Major & Minor version as the branch name.  Master branch would mirror the latest version.
